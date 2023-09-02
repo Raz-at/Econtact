@@ -1,4 +1,4 @@
-# Econtact
+# Contact
 
 Create a simple desktop application using C# and MS SQL Server
 The features of this project is that..
