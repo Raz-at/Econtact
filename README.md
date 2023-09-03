@@ -1,6 +1,6 @@
 # Contact
 
-Create a simple desktop application using C# and MS SQL Server
+Create a simple desktop application using C# ADO.net and MS SQL Server
 The features of this project is that..
 <li>You can creata a contact list</li>
 <li>You can delete update and delete contact</li>
